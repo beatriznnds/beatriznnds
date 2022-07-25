@@ -8,3 +8,5 @@
 :keyboard: Yes, and now, **Javascript** is my best friend!
 
 :books: I'm always reading three books at the same time. Want to know their titles? Ask me!
+
+![](https://github.com/beatriznnds/snk/raw/output/github-contribution-grid-snake.svg)
