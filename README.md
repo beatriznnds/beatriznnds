@@ -5,8 +5,6 @@
 
 :woman_student: As a result, I decided to become a **full stack developer** and I'm studying at **Driven Education**.
 
-:keyboard: Yes, and now, **Javascript** is my best friend!
+:keyboard: And now, **Javascript** is my best friend!
 
 :books: I'm always reading three books at the same time. Want to know their titles? Ask me!
-
-![](https://github.com/beatriznnds/snk/raw/output/github-contribution-grid-snake.svg)
