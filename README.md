@@ -6,10 +6,3 @@
 :keyboard: Yes, and now, **Javascript** is my best friend!
 
 :books: I'm always reading three books at the same time. Want to know their titles? Ask me!
-
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: ${{ github.beatriznnds }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
