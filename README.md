@@ -5,6 +5,6 @@
 
 :woman_student: As a result, I decided to become a **full stack developer** and I'm studying at **Driven Education**.
 
-:keyboard: And now, **Javascript** is my best friend!
+:keyboard: And now, I'm trying to be friends with **Javascript**!
 
 :books: I'm always reading three books at the same time. Want to know their titles? Ask me!
