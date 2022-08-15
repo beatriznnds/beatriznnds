@@ -1,5 +1,5 @@
 ## :wave: Hello World,
-:raising_hand_woman: I'm **Beatriz** from São Paulo, Brazil. I'm graduated in **History** and it's a funny story.
+:raising_hand_woman: I'm **Beatriz** from São Paulo, Brazil. I'm graduated in **History** at Universidade de São Paulo (USP) and it's a funny story.
 
 :page_with_curl: Working in an archive, I got interested in how **databases** are built.
 
