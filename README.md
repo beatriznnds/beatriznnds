@@ -30,4 +30,7 @@
 [1]: www.linkedin.com/in/beatriz-nnds
 [2]: beatriz.nnds@gmail.com
 
+<br />
+
+
 ![snake gif](https://github.com/beatriznnds/beatriznnds/blob/output/github-contribution-grid-snake.gif)
