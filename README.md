@@ -22,4 +22,12 @@
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
+## You can reach me at:
+
+[<img align="left" alt="linkedin" width="26px" src="https://user-images.githubusercontent.com/86417618/173072709-aeeaedce-9036-4786-a21e-1bc017910e63.svg" />][1]
+[<img align="left" alt="gmail" width="26px" src="https://user-images.githubusercontent.com/86417618/198731044-65434c26-fabf-49b5-80ca-f5ba61ab74d1.svg" />][2]
+
+[1]: www.linkedin.com/in/beatriz-nnds
+[2]: beatriz.nnds@gmail.com
+
 ![snake gif](https://github.com/beatriznnds/beatriznnds/blob/output/github-contribution-grid-snake.gif)
